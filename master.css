@@ -1,0 +1,74 @@
+body{
+  background-image: url(bb.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+#logo{
+  margin: auto;
+  padding-left: 365px;
+  padding-top: 50px;
+}
+
+header h1{
+  color: lime;
+  padding-left: 280px
+}
+
+.pulsanti{
+  background-color: lime;
+  padding: 10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+
+.puls1{
+  margin-left: 250px;
+}
+
+main{
+  color: white;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-bottom: 80px;
+}
+
+main h3{
+  color: white;
+  display: inline-block;
+}
+
+.testo{
+  margin-top: -10px;
+}
+
+.rettangolo1{
+  width: 300px;
+  height: 30px;
+  background: orange;
+  border-radius: 10px;
+  margin-top: -5px;
+}
+
+.rettangolo2{
+  width: 500px;
+  height: 30px;
+  background: lime;
+  border-radius: 10px;
+  margin-top: -5px;
+}
+
+.rettangolo3{
+  width: 150px;
+  height: 30px;
+  background: red;
+  border-radius: 10px;
+  margin-top: -5px;
+}
